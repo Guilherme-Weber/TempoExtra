@@ -84,12 +84,13 @@
         <entry key="..\:/Users/guilw/AndroidStudioProjects/ProjetoTeste/app/src/main/res/layout/pedido_linha.xml" value="0.358695652173913" />
         <entry key="..\:/Users/guilw/AndroidStudioProjects/ProjetoTeste/app/src/main/res/layout/pedidocoordenador_linha.xml" value="0.358695652173913" />
         <entry key="..\:/Users/guilw/AndroidStudioProjects/TempoExtra/app/src/main/res/layout/activity_tela_aluno_analisa.xml" value="0.3625" />
+        <entry key="..\:/Users/guilw/AndroidStudioProjects/TempoExtra/app/src/main/res/layout/activity_tela_aluno_pedido.xml" value="0.24954710144927536" />
         <entry key="..\:/Users/guilw/AndroidStudioProjects/TempoExtra/app/src/main/res/layout/activity_tela_coordenador_analisa.xml" value="0.3625" />
         <entry key="..\:/Users/guilw/AndroidStudioProjects/TempoExtra/app/src/main/res/layout/activity_tela_home_screen.xml" value="0.3625" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
