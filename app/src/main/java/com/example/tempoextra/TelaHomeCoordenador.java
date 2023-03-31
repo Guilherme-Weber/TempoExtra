@@ -1,23 +1,19 @@
 package com.example.tempoextra;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.example.tempoextra.roomdatabase.CoordenaDao;
-import com.example.tempoextra.roomdatabase.CoordenaDatabase;
-import com.example.tempoextra.roomdatabase.CoordenaEntity;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+
 import com.example.tempoextra.roomdatabase.PedidoDao;
 import com.example.tempoextra.roomdatabase.PedidoDatabase;
 import com.example.tempoextra.roomdatabase.PedidoEntity;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class TelaHomeCoordenador extends AppCompatActivity {

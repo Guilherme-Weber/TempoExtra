@@ -1,24 +1,18 @@
 package com.example.tempoextra;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-import androidx.room.DatabaseConfiguration;
-import androidx.room.InvalidationTracker;
-import androidx.sqlite.db.SupportSQLiteOpenHelper;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.tempoextra.roomdatabase.PedidoDao;
 import com.example.tempoextra.roomdatabase.PedidoDatabase;
 import com.example.tempoextra.roomdatabase.PedidoEntity;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class TelaAlunoVisualizar extends AppCompatActivity {
